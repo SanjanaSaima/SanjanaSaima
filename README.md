@@ -116,7 +116,7 @@ I'm always open to collaborating on interesting projects and connecting with fel
 ## 📊 My GitHub Stats
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaSaima&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="SanjanaSaima's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaSaima&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1000" alt="SanjanaSaima GitHub stats" />
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaSaima&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
@@ -124,10 +124,11 @@ I'm always open to collaborating on interesting projects and connecting with fel
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=SanjanaSaima&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SanjanaSaima&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- GitHub Contributions -->
   <img src="https://github-contributor-stats.vercel.app/api?username=SanjanaSaima&limit=7&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
 </p>
+
