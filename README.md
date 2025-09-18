@@ -15,7 +15,7 @@
 </p>
 
 # Hi, Sanjana Afrin Saima here 👋
-### Aspiring App Developer | java | flutter | Competitive programmer
+### Aspiring Software Developer | App Developer | .NET | java | flutter | Competitive programmer
 
 a Computer Science and Engineering student with a strong passion for **Android app development** and problem-solving. I specialize in building user-friendly, practical, and efficient applications using **Java, Android Studio, XML, and SQLite**.  
 My Backgorund comes from competitive programming participated in many programming contest. Some Top picks are 
