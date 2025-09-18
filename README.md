@@ -6,9 +6,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F8F8F8&center=true&width=550&lines=Flutter+Developer;Java+Android+Developer;Problem+Solver;Competitive+Programmer;Software+Developer;Aspiring+Mobile+App+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F8F8F8&background=000000&center=true&width=550&lines=Flutter+Developer;Java+Android+Developer;Problem+Solver;Competitive+Programmer;Software+Developer;Aspiring+Mobile+App+Developer" alt="Typing SVG" />
   </a>
 </div>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SanjanaSaima&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
