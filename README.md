@@ -40,30 +40,54 @@ My Backgorund comes from competitive programming participated in many programmin
 ---
 
 ## 🛠️ Languages and Tools
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
-<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-<img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=visualstudio&logoColor=white" alt="MVC"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-<img src="https://img.shields.io/badge/Routing-FF6F00?style=for-the-badge&logo=angular&logoColor=white" alt="Routing"/>
-<img src="https://img.shields.io/badge/Versioning-4285F4?style=for-the-badge&logo=git&logoColor=white" alt="Versioning"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Razor%20Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Razor Pages"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="xUnit"/>
-<img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="SOLID Principles"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
+## 🛠️ Skills  
+
+### 💻 Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
+
+### 📱 Frameworks & Libraries  
+<p>
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=visualstudio&logoColor=white" alt="MVC"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
+</p>
+
+### 🌐 Web Development  
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Razor%20Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Razor Pages"/>
+</p>
+
+### 🗄️ Databases  
+<p>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### 🔧 Tools & Version Control  
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+### 🧪 Testing & Principles  
+<p>
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="xUnit"/>
+  <img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="SOLID Principles"/>
+</p>
+
 
 
 ## 🤝 Let's Connect!
