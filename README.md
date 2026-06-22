@@ -2,12 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6CABDD,100:1C2C5B&height=200&text=Sanjana%20Saima&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
-</div>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F8F8F8&background=000000&center=true&width=550&lines=Junior+Software+Engineer;Problem+Solver;Competitive+Programmer;" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=45&lines=Junior+Software+Engineer;React+%7C+Angular+%7C+ASP.NET+Core;Power+Platform+%7C+Dataverse;Competitive+Programmer" />
 </div>
 
 
