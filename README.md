@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F8F8F8&background=000000&center=true&width=550&lines=Aspiring+Software+Developer;Problem+Solver;Competitive+Programmer;Aspiring+Mobile+App+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F8F8F8&background=000000&center=true&width=550&lines=Aspiring+Software+Developer;Problem+Solver;Competitive+Programmer;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,10 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=SanjanaSaima&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-# Hi, Sanjana Afrin Saima here 👋
-### Aspiring Software Developer | App Developer | .NET | java | flutter | Competitive programmer
+# Hi, I'm Sanjana Afrin Saima 👋
+### Junior Software Engineer | React | Angular | ASP.NET Core | Power Platform | Dataverse | Competitive programmer
 
-a Computer Science and Engineering student with a strong passion for **Android app development** and problem-solving. I specialize in building user-friendly, practical, and efficient applications using **Java, Android Studio, XML, and SQLite**.  
+a Computer Science and Engineering student with a strong passion for **Software development** and problem-solving. I specialize in building user-friendly, practical, and efficient applications using **Java, Android Studio, XML, and SQLite**.  
 My Backgorund comes from competitive programming participated in many programming contest. Some Top picks are 
  - 🥇 **Champion**, IUBAT Female Programming Contest 2024  
 - 🏅 **Top Female**, IUBAT Monthly Programming Contest 2023  
