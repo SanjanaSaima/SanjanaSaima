@@ -19,8 +19,9 @@
 ### Junior Software Engineer | React | Angular | ASP.NET Core | Power Platform | Dataverse | Competitive programmer
 
 I'm a **Junior Software Engineer** with experience in building business applications using **Microsoft Power Platform, ASP.NET Core, React, and Angular**. I enjoy developing scalable solutions, designing user-friendly interfaces, and solving real-world problems through technology. 
-My Backgorund comes from competitive programming participated in many programming contest. Some Top picks are 
- - 🥇 **Champion**, IUBAT Female Programming Contest 2024  
+## 🏆 Competitive Programming Achievements
+My passion for software development started through competitive programming and algorithmic problem solving.
+- 🥇 **Champion**, IUBAT Female Programming Contest 2024  
 - 🏅 **Top Female**, IUBAT Monthly Programming Contest 2023  
 - 🎯 **Participant**, ICPC Asia Dhaka Regional 2024 (Onsite)  
 
