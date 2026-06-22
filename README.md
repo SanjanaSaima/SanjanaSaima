@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=6CABDD&center=true&vCenter=true&width=750&lines=Junior+Software+Engineer;React+%7C+Angular+Developer;ASP.NET+Core+%7C+Power+Platform;Competitive+Programmer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=6CABDD&center=true&vCenter=true&width=750&lines=Junior+Software+Engineer;Competitive+Programmer;Problem+Solver" />
 
 </div>
 
