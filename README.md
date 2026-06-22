@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F8F8F8&background=000000&center=true&width=550&lines=Aspiring+Software+Developer;Problem+Solver;Competitive+Programmer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F8F8F8&background=000000&center=true&width=550&lines=Junior+Software+Engineer;Problem+Solver;Competitive+Programmer;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,6 +19,29 @@
 ### Junior Software Engineer | React | Angular | ASP.NET Core | Power Platform | Dataverse | Competitive programmer
 
 I'm a **Junior Software Engineer** with experience in building business applications using **Microsoft Power Platform, ASP.NET Core, React, and Angular**. I enjoy developing scalable solutions, designing user-friendly interfaces, and solving real-world problems through technology. 
+
+## 💼 Currently Working On
+- Developing CRM solutions using Microsoft Power Platform and Dataverse
+- Building Angular-based customer portals
+- Developing React web resources for Power Platform
+- Building ASP.NET Core APIs and Azure-based services
+- Improving software architecture and cloud development skills
+
+## 💼 Professional Experience
+### Junior Software Engineer | Implevista
+*January 2026 – Present*
+- Developed CRM solutions using Microsoft Power Platform and Dataverse
+- Built Angular customer portals integrated with Dataverse
+- Developed React web resources for Power Platform
+- Implemented Dataverse security roles and permissions
+- Built ASP.NET Core licensing APIs hosted on Azure
+### Software Engineer Intern | Implevista
+*October 2025 – December 2025*
+- Developed and customized Model-Driven Apps using Power Platform
+- Configured Dataverse tables, forms, and business rules
+- Assisted in Power Apps development and automation workflows
+- Contributed to Angular front-end development
+  
 ## 🏆 Competitive Programming Achievements
 My passion for software development started through competitive programming and algorithmic problem solving.
 - 🥇 **Champion**, IUBAT Female Programming Contest 2024  
