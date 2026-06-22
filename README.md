@@ -18,7 +18,7 @@
 # Hi, I'm Sanjana Afrin Saima 👋
 ### Junior Software Engineer | React | Angular | ASP.NET Core | Power Platform | Dataverse | Competitive programmer
 
-a Computer Science and Engineering student with a strong passion for **Software development** and problem-solving. I specialize in building user-friendly, practical, and efficient applications using **Java, Android Studio, XML, and SQLite**.  
+I'm a **Junior Software Engineer** with experience in building business applications using **Microsoft Power Platform, ASP.NET Core, React, and Angular**. I enjoy developing scalable solutions, designing user-friendly interfaces, and solving real-world problems through technology. 
 My Backgorund comes from competitive programming participated in many programming contest. Some Top picks are 
  - 🥇 **Champion**, IUBAT Female Programming Contest 2024  
 - 🏅 **Top Female**, IUBAT Monthly Programming Contest 2023  
